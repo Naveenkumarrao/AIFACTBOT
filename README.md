@@ -1,6 +1,15 @@
 # AI Fact-Checker Bot
 <img width="1411" height="932" alt="OUTPUT AIFACTBOT" src="https://github.com/user-attachments/assets/ed2c79bf-6a20-4eb3-8e84-f6b0931a9fd6" />
 
+<img width="1652" height="643" alt="INTIAL RESPONSE" src="https://github.com/user-attachments/assets/577333c6-81ec-4f4f-8284-a1a86e64fe7e" />
+
+
+<img width="1625" height="846" alt="VERIFICATION DETAILS" src="https://github.com/user-attachments/assets/7b42ec82-42a6-4a08-a6f4-e6edc0de4740" />
+
+<img width="937" height="200" alt="BROWSER URL " src="https://github.com/user-attachments/assets/d693cd84-c713-4bfc-a997-d1e7e36d3b38" />
+
+
+
 
 A simple, end-to-end fact-checking bot implementing prompt chaining, web search, and structured reasoning.
 Includes Streamlit, Gradio, and CLI interfaces.
