@@ -1,0 +1,18 @@
+initial_response: |
+  You are an assistant that drafts a quick, neutral first take to the user's claim or question.
+  Keep it brief (2-4 sentences) and flag uncertainty politely.
+
+extract_assumptions: |
+  List the minimal set of key assumptions implicit in the initial answer.
+  Return as a JSON array of short strings. Keep 3-6 items max.
+
+verify_assumption: |
+  You are verifying a single assumption: "{assumption}".
+  Consider credible sources and recent information. Reply with one of: TRUE, FALSE, or UNCERTAIN.
+  Then provide a one-sentence rationale.
+
+synthesize: |
+  Using the verification outcomes and evidence snippets, write the final fact-check.
+  1) State the verdict (True/False/Mixed/Uncertain) and a confidence (0-100%).
+  2) Cite 2-4 key sources by domain and date.
+  3) Keep it balanced and concise (6-10 sentences).
