@@ -1,4 +1,6 @@
 # AI Fact-Checker Bot
+<img width="1411" height="932" alt="OUTPUT AIFACTBOT" src="https://github.com/user-attachments/assets/ed2c79bf-6a20-4eb3-8e84-f6b0931a9fd6" />
+
 
 A simple, end-to-end fact-checking bot implementing prompt chaining, web search, and structured reasoning.
 Includes Streamlit, Gradio, and CLI interfaces.
