@@ -1,0 +1,6 @@
+# Example queries for the AI Fact-Checker Bot
+The capital of France is Paris.
+What type of mammal lays the biggest eggs?
+What happened in the latest SpaceX launch?
+Is climate change caused by human activities?
+Python is the best programming language.
